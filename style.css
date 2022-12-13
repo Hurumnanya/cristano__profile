@@ -445,7 +445,6 @@ header{
     display: flex;
     margin-top: 0px;
     padding-bottom: 10px;
-    border-bottom: 1px solid rgb(238, 238, 238);
 }
 
 .forward_icon_div p{
@@ -463,15 +462,22 @@ header{
     border-radius: 10px;
 }
 
+.first_top_border{
+    border-top: 1px solid rgb(238, 238, 238);
+    width: fit-content;
+
+}
+
 .third_section_left_second_row{
-    margin-top: 10px;
     display: flex;
+    padding-top: 10px;
 }
 
 .third_section_left_second_row_left{
-    width: 325px;
     border-right: 1px solid rgb(238, 238, 238);
+    width: 325px;
 }
+
 
 .marca_logo_div{
     display: flex;
@@ -512,9 +518,56 @@ header{
     margin-top: 0px;
 }
 
-/* .third_section_left_second_row_right {
-    
-} */
+.third_section_left_second_row_left_lower{
+    border-top: 1px solid rgb(238, 238, 238);
+    display: flex;
+    padding-top: 10px;
+    width: 310px;
+}
+
+.third_section_left_second_row_left_lower_left img{
+    margin-top: 3px;
+}
+
+.third_section_left_second_row_left_lower p:nth-child(2){
+    margin-bottom: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.third_section_left_second_row_left_lower p:nth-child(3){
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.third_section_left_second_row_left_lower p:nth-child(4){
+    margin-top: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.third_section_left_second_row_left_lower p:nth-child(5){
+    color: #70757A;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.third_section_left_second_row_left_lower_right img{
+    margin-left: 35px;
+    border-radius: 10px;
+}
+
+/* .third_section_left_second_row_right styling */
+
+
 .third_section_left_second_row_right_upper{
     margin-left: 15px;
     display: flex;
@@ -551,24 +604,80 @@ header{
 
 .third_section_left_second_row_right_upper_left p:nth-child(5){
     color: #70757A;
-    margin-top: 0px;
+    margin-top: 12px;
     margin-bottom: 10px;
 }
 
-.third_section_left_second_row_right_lower{
+.third_section_left_second_row_right_center{
     margin-bottom: 10px;
     margin-left: 15px;
     display: flex;
-    padding-top: 10px;
+    padding-top: 20px;
     border-top: 1px solid rgb(238, 238, 238);
+}
+
+.third_section_left_second_row_right_center_left p:nth-child(2){
+    margin-bottom: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.third_section_left_second_row_right_center_left p:nth-child(3){
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.third_section_left_second_row_right_center_left p:nth-child(4){
+    margin-top: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.third_section_left_second_row_right_center_left p:nth-child(5){
+    color: #70757A;
+    margin-top: 0px;
+}
+
+.third_section_left_second_row_right_center_right img{
+    margin-left: 15px;
+    border-radius: 10px;
 
 }
 
-/* .third_section_left_second_row_right_lower_left img{
+.third_section_left_second_row_right_lower{
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    padding-top: 10px;
+    border-top: 1px solid rgb(238, 238, 238);
+}
 
-} */
+.footballcodeimage_div{
+    display: flex;
+    margin-top: 3px;
+}
 
-.third_section_left_second_row_right_lower_left p:nth-child(2){
+.footballcodeimage_div img{
+    height: 15px;
+}
+
+.footballcodeimage_div p{
+    margin-left: 10px;
+    margin-top: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+
+}
+
+#cristiano_rubbishes{
     margin-bottom: 0px;
     color: #1A0DAB;
     font-family: Arial, Helvetica, sans-serif;
@@ -577,7 +686,6 @@ header{
 }
 
 .third_section_left_second_row_right_lower_left p:nth-child(3){
-    margin-top: 0px;
     margin-bottom: 5px;
     color: #1A0DAB;
     font-family: Arial, Helvetica, sans-serif;
@@ -595,11 +703,11 @@ header{
 
 .third_section_left_second_row_right_lower_left p:nth-child(5){
     color: #70757A;
-    margin-top: 0px;
+    margin-top: 5px;
 }
 
 .third_section_left_second_row_right_lower_right img{
-    margin-left: 15px;
+    margin-left: 25px;
     border-radius: 10px;
 }
 
