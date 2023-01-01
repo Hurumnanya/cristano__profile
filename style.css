@@ -428,6 +428,7 @@ header{
 
 .main_third_section{
     margin-top: 40px;
+    margin-bottom: 10px;
 }
 
 .main_third_section_left{
@@ -711,6 +712,99 @@ header{
     border-radius: 10px;
 }
 
+/* main_fourth_section styling */
+
+.main_fourth_section{
+    margin-left: 155px;
+}
+
+.main_fourth_section_left{
+    display: flex;
+    border-top: 1px solid rgb(238, 238, 238);
+    width: fit-content;
+    padding-top: 10px;
+}
+
+.fourth_section_left_first_row{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4D5156;
+    margin-bottom: 10px;
+}
+
+.fourth_section_left_second_row{
+    display: flex;
+    padding-right: 15px;
+}
+
+.fourth_section_left_second_row_left p:nth-child(2){
+    margin-bottom: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.fourth_section_left_second_row_left p:nth-child(3) {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.fourth_section_left_second_row_left p:nth-child(4){
+    margin-top: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.fourth_section_left_second_row_left p:nth-child(5) {
+    color: #70757A;
+    margin-top: 0px;
+}
+
+.fourth_section_left_second_row_right img{
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.fourth_section_right_second_row{
+    display: flex;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-left: 1px solid rgb(238, 238, 238);
+}
+
+.fourth_section_right_second_row_left p:nth-child(2) {
+    margin-bottom: 0px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.fourth_section_right_second_row_left p:nth-child(3){
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.fourth_section_right_second_row_left p:nth-child(4){
+    color: #70757A;
+    margin-top: 25px;
+}
+
+.fourth_section_right_second_row_right img{
+    margin-left: 35px;
+    border-radius: 10px;
+}
 
 
 
@@ -722,3 +816,12 @@ header{
 
 
 
+
+
+
+
+
+
+
+
+ 
