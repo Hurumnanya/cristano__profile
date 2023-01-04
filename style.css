@@ -1005,6 +1005,142 @@ header{
     color: #1A0DAB;
 }
 
+/* main_sixth_section_fourth_row styling */
+
+.main_sixth_section_fourth_row{
+    margin-left: 155px;
+    border: 2px solid rgb(224, 222, 222);
+    width: 680px;
+    border-radius: 10px;
+}
+
+.main_sixth_section_fourth_row_first_line{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.main_sixth_section_fourth_row_first_line h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757A;
+}
+
+.main_sixth_section_fourth_row_first_line img{
+    margin-left: 68%;
+}
+
+.main_sixth_section_fourth_row_first_search {
+    margin-left: 15px;
+    color: #1A0DAB;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_sixth_section_fourth_row_second_search {
+    margin-left: 15px;
+    color: #1A0DAB;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_sixth_section_fourth_row_search{
+    display: flex;
+    gap: 20px;
+}
+
+/* main_eight_section_first_row styling */
+
+.main_eight_section_first_row_first_line{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 155px;
+}
+
+.main_eight_section_first_row_first_line p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main_eight_section_first_row_first_line img{
+    height: 18px;
+    margin-left: 15px;
+    margin-top: 13px;
+}
+
+.main_eight_section_first_row_second_line {
+    margin-left: 155px;
+    margin-top: 0px;
+    color: #681DA8;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* main_eight_section_second_row styling */
+
+.main_eight_section_second_row{
+    margin-left: 155px;
+}
+
+.main_eight_section_second_row_twitter_first_column{
+    border: 1px solid rgb(224, 222, 222);
+
+}
+
+.main_eight_section_second_row_twitter{
+    
+    /* float: left; */
+}
+
+.main_eight_section_second_row_twitter_first_pictures{
+    display: flex;
+}
+
+.main_eight_section_second_row_twitter_second_pictures{
+    display: flex;
+    margin-top: 1px;
+}
+
+.main_eight_section_second_row_twitter_first_pictures img:nth-child(1){
+    border-top-left-radius: 10px;
+    margin-bottom: 0px;
+    margin-right: 1px;
+}
+
+.main_eight_section_second_row_twitter_first_pictures img:nth-child(2){
+    border-top-right-radius: 10px;
+}
+
+.main_eight_section_second_row_twitter_second_pictures img:nth-child(1){
+    margin-right: 1px;
+}
+
+.Thank_you_Riyadh{
+    font-size: 14px;
+    padding-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    color: #5F6368;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Thank_you_Riyadh_twitter{
+    padding-left: 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Thank_you_Riyadh_twitter span{
+    /* color: #5F6368; */
+}
+
+.main_eight_section_second_row_twitter{
+    /* width: 213px; */
+    /* border-radius: 10px; */
+}
 
 
 
@@ -1026,4 +1162,9 @@ header{
 
 
 
- 
+
+
+
+
+
+  
