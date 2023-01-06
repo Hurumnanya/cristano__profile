@@ -1051,6 +1051,353 @@ header{
     gap: 20px;
 }
 
+.main_sixth_section_fifth_row{
+    margin-left: 155px;
+}
+
+#main_sixth_section_fifth_row_first_para{
+    font-size: 22px;
+    padding-bottom: 20px;
+    width: 680px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    border-bottom: 1px solid rgb(224, 222, 222);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+}
+
+.main_sixth_section_fifth_row_first_details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    padding-top:0px ;
+    font-size: 16px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(1) span{
+    font-weight: bold;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(4) span{
+    font-size: 12px;
+    color: #70757A;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(5){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(5) span{
+    color: #424446;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(6){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1A0DAB;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 27px;   
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(7){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+.main_sixth_section_fifth_row_first_details p:nth-child(7) span{
+    color: #681DA8;
+}
+
+.main_sixth_section_fifth_row_first_details{
+    border-bottom: 1px solid rgb(238, 238, 238);
+    padding-bottom: 11px;
+    width: 680px;
+}
+/* main_sixth_section_fifth_row_second_details styling */
+
+.main_sixth_section_fifth_row_second_details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    padding-top:12px ;
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
+.main_sixth_section_fifth_row_second_details{
+    width: 680px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+    padding-bottom: 11px;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(2) span{
+    font-weight: bold;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 5px;
+    margin-bottom: 30px;
+
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(4) span{
+    color: #70757A;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(5){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-size: 20px;
+    margin-top: 0px;
+    color: #681DA8;
+    margin-bottom: 30px;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(6) span{
+    color: #681DA8;
+}
+
+.main_sixth_section_fifth_row_second_details p:nth-child(6){
+    font-family: Arial, Helvetica, sans-serif;
+    color:#202124 ;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+/* main_sixth_section_fifth_row_third_details */
+
+.main_sixth_section_fifth_row_third_details{
+    width: 680px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+    padding-bottom: 11px;
+}
+
+.main_sixth_section_fifth_row_third_details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    padding-top:12px ;
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    margin-top: 25px;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(1) span{
+    font-weight: bold;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(3) span{
+    color: #70757A;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #681DA8;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(5){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(6) span{
+    color: #681DA8;
+}
+
+.main_sixth_section_fifth_row_third_details p:nth-child(6){
+    font-family: Arial, Helvetica, sans-serif;
+    color:#202124 ;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+/* main_sixth_section_fifth_row_fourth_details */
+
+.main_sixth_section_fifth_row_fourth_details{
+    width: 680px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+    padding-bottom: 11px;
+}
+
+.main_sixth_section_fifth_row_fourth_details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    padding-top:12px ;
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    margin-top: 25px;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(1) span{
+    font-weight: bold;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 0px;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(2) span{
+    font-weight: bold;
+
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(3) span{
+    color: #70757A;
+    font-size: 12px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #202124;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(5){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #681DA8;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(6) span{
+    color: #681DA8;
+}
+
+.main_sixth_section_fifth_row_fourth_details p:nth-child(6){
+    font-family: Arial, Helvetica, sans-serif;
+    color:#202124 ;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* main_eight_section_first_row styling */
 
 .main_eight_section_first_row_first_line{
@@ -1084,14 +1431,18 @@ header{
     margin-left: 155px;
 }
 
-.main_eight_section_second_row_twitter_first_column{
-    border: 1px solid rgb(224, 222, 222);
-
+.main_eight_section_second_row_twitter{ 
+    float: left;
 }
 
-.main_eight_section_second_row_twitter{
-    
-    /* float: left; */
+.main_eight_section_second_row_twitter_first_column{
+    border: 1px solid rgb(224, 222, 222);
+    width: 212px;
+    border-radius: 10px;
+}
+
+.main_eight_section_second_row_twitter_first_column_image_div{
+    margin-bottom: 10px;
 }
 
 .main_eight_section_second_row_twitter_first_pictures{
@@ -1134,13 +1485,68 @@ header{
 }
 
 .Thank_you_Riyadh_twitter span{
-    /* color: #5F6368; */
+    color: #5F6368;
 }
 
-.main_eight_section_second_row_twitter{
-    /* width: 213px; */
-    /* border-radius: 10px; */
+.main_eight_section_second_row_twitter_second_column{
+    border: 1px solid rgb(224, 222, 222);
+    width: 212px;
+    margin-left: 10px;
+    border-radius: 10px;
 }
+.main_eight_section_second_row_twitter_second_column_first_para{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    color: #5F6368;
+    font-size: 8px;
+}
+
+.main_eight_section_second_row_twitter_second_column_second_para{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    font-size: 14px;
+    margin-top: 89px;
+}
+
+
+.main_eight_section_second_row_twitter_second_column_second_para span{
+    color: #5F6368;
+    font-size: 14px;
+
+}
+
+.main_eight_section_second_row_twitter_second_column img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.main_eight_section_second_row_twitter_third_column{
+    border: 1px solid rgb(224, 222, 222);
+    width: 212px;
+    margin-left: 10px;
+    /* align-items: center; */
+    border-radius: 10px;
+}
+
+.main_eight_section_second_row_twitter_second_column_third_para{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    font-size: 14px;
+    margin-top: 105px;
+}
+
+.main_eight_section_second_row_twitter_second_column_third_para span{
+    color: #5F6368;
+    font-size: 14px;
+}
+
+.main_eight_section_second_row_twitter_third_column img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
 
 
 
