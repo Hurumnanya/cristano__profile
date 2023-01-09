@@ -1383,20 +1383,98 @@ header{
     margin-top: 0px;
 }
 
+/* main_seventh_section */
 
+.main_seventh_section{
+    margin-left: 155px;
+    margin-top: 40px;
+}
 
+.main_seventh_section_first_row{
+    display: flex;
+    margin-bottom: 0px;
+}
 
+.main_seventh_section_first_row p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
 
+.main_seventh_section_first_row img{
+    height: 18px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
 
+.main_seventh_section_second_row{
+    font-size: 20px;
+    margin-top:0px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.main_seventh_section_third_row{
+    margin-top: 0px;
+    font-size: 14px;
+    color: #5F6368;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.main_seventh_section_third_row span{
+    color: #5F6368;
+    font-weight: bold;
+    font-size: 14px;
+}
 
+.main_seventh_section_seconds_row_first_line{
+    display: flex;
+    margin-bottom: 0px;
+}
 
+.main_seventh_section_seconds_row_first_line p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
 
+.main_seventh_section_seconds_row_first_line img{
+    height: 18px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
 
+.main_seventh_section_seconds_row_second_line{
+    margin-top: 0px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #1A0DAB;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.main_seventh_section_seconds_row_third_line{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5F6368;
+}
 
+.main_seventh_section_seconds_row_third_line span{
+    color: #424446;
+    font-weight: bold;
+}
 
+.main_seventh_section_seconds_row_fourth_line{
+    margin-top: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5F6368;
+}
+
+.main_seventh_section_seconds_row_fourth_line span{
+    color: #424446;
+    font-weight: bold;
+}
 
 /* main_eight_section_first_row styling */
 
@@ -1546,6 +1624,199 @@ header{
     border-top-right-radius: 10px;
 }
 
+/* main_main styling */
+
+.main_main{
+    display: flex;
+}
+
+.main_left_sections{
+
+    padding-right: 40px;
+}
+
+.main_right_sections{
+    margin-top: 30px;
+    padding-left: 20px;
+    border-left: 1px solid rgb(238, 238, 238);
+    /* height: fit-content; */
+}
+
+/* main right section */
+
+.main_right_first_row_first_line{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #202124;
+
+}
+
+.world_wide_web{
+    display: flex;
+    border: 1px solid #dadce0;
+    border-radius: 30px;
+    height: 30px;
+    padding-left: 15px;
+    align-items: center;
+    padding-right: 15px;
+
+}
+
+.world_wide_web p{
+    font-size: 14px;
+    color: #202124;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.world_wide_web img{
+    height: 20px;
+    padding-top: 4px;
+}
+
+.main_right_first_row_third_row{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D5156; 
+    font-size: 14px;
+}
+
+.main_right_first_row_third_row p:nth-child(1){
+    margin-bottom: 5px;
+}
+
+.main_right_first_row_third_row p:nth-child(2){
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_right_first_row_third_row p:nth-child(3){
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_right_first_row_third_row p:nth-child(4){
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.main_right_first_row_third_row p:nth-child(4) span{
+    color: #681DA8;
+}
+
+.main_right_first_row_fourth_row p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D5156; 
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+.main_right_first_row_fourth_row p:nth-child(1) span:nth-child(1){
+    color: #202124;
+    font-weight: bold;
+}
+
+.main_right_first_row_fourth_row p:nth-child(1) span:nth-child(2){
+    color: #1A0DAB; 
+}
+
+.main_right_first_row_fourth_row p:nth-child(2){
+    margin-top: 0px;
+    color: #1A0DAB; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main_right_first_row_fifth_row p:nth-child(1){
+    margin-bottom: 5px;
+    color: #1A0DAB; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main_right_first_row_fifth_row p:nth-child(1) span {
+    color: #202124;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_right_first_row_fifth_row p:nth-child(2){
+    color: #1A0DAB; 
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main_right_first_row_fifth_row p:nth-child(3){
+    margin-top: 0px;
+    color: #1A0DAB; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main_right_first_row_sixth_row p:nth-child(1) span:nth-child(1){
+    color: #202124;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.main_right_first_row_sixth_row p:nth-child(1) span:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D5156; 
+}
+
+.main_right_first_row_sixth_row p:nth-child(1) {
+    font-size: 14px;
+    color: #1A0DAB; 
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_right_first_row_sixth_row p:nth-child(2) span:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D5156; 
+}
+
+.main_right_first_row_sixth_row p:nth-child(2) span:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D5156; 
+}
+
+.main_right_first_row_sixth_row p:nth-child(2) {
+    margin-top: 0px;
+    color: #1A0DAB; 
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_right_first_row_seventh_row p:nth-child(1){
+    font-size: 14px;
+    color: #4D5156; 
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_right_first_row_seventh_row p:nth-child(1) span:nth-child(1){
+    color: #202124;
+    font-weight: bold;
+}
+
+.main_right_first_row_seventh_row p:nth-child(1) span:nth-child(2){
+    color: #1A0DAB; 
+}
+
+.main_right_first_row_seventh_row p:nth-child(1) span:nth-child(3){
+    color: #1A0DAB; 
+}
+
+.main_right_first_row_seventh_row p:nth-child(2){
+    margin-top: 0px;
+    font-size: 14px;
+    color: #1A0DAB; 
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 
 
@@ -1573,4 +1844,4 @@ header{
 
 
 
-  
+   
