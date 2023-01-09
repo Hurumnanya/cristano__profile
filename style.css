@@ -1646,6 +1646,7 @@ header{
     border-radius: 30px;
     height: 30px;
     padding-left: 15px;
+    width: fit-content;
     align-items: center;
     padding-right: 15px;
 
