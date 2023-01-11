@@ -1670,7 +1670,7 @@ header{
     border: 1px solid rgb(224, 222, 222);
     width: 212px;
     margin-left: 10px;
-    /* align-items: center; */
+
     border-radius: 10px;
 }
 
@@ -1691,6 +1691,174 @@ header{
     border-top-right-radius: 10px;
 }
 
+.main_eight_section_second_row_twitter_overlap_div{
+    display: flex;
+}
+
+.main_eight_section_second_row_twitter_overlap_div img:nth-child(2){
+    border-radius: 50%;
+    border: 1px solid rgb(224, 222, 222);
+    height: 25px;
+    padding: 5px;
+    width: 25px;
+    position: relative;
+    right:18px;
+    top: 100px;
+}
+
+.main_eight_section{
+    margin-bottom: 300px;
+}
+    
+
+/* main_nine_section */
+
+.main_nine_section{
+    margin-left: 155px;
+}
+
+.main_nine_section_first_row{
+    display: flex;
+    border-bottom: 1px solid rgb(221, 220, 220);
+    width: 660px;
+
+}
+
+.main_nine_section_first_row p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: #202124;
+}
+
+.main_nine_section_first_row img{
+    padding-left: 10px;
+}
+
+.main_nine_section_second_row{
+    display: flex;
+    border-bottom: 1px solid rgb(221, 220, 220);
+    width: 660px;
+}
+
+.main_nine_section_second_row embed{
+    width: 124px;
+    margin-top: 12px;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.main_nine_section_second_row_right{
+    margin-left: 20px;
+}
+
+.main_nine_section_second_row_right p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1A0DAB;
+    font-size: 16px;
+}
+
+.main_nine_section_second_row_right p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.main_nine_section_second_row_right p:nth-child(2) span{
+    color: #70757A;
+}
+
+.main_nine_section_second_row_right p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757A;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.main_nine_section_third_row{
+    display: flex;
+    border-bottom: 1px solid rgb(221, 220, 220);
+    width: 660px;
+}
+
+.main_nine_section_third_row embed{
+    width: 124px;
+    margin-top: 12px;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.main_nine_section_third_row_right{
+    margin-left: 20px;
+}
+
+.main_nine_section_third_row_right p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1A0DAB;
+    font-size: 16px;
+}
+
+.main_nine_section_third_row_right p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.main_nine_section_third_row_right p:nth-child(2) span{
+    color: #70757A;
+}
+
+.main_nine_section_third_row_right p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757A;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.main_nine_section_fourth_row{
+    display: flex;
+    border-bottom: 1px solid rgb(221, 220, 220);
+    width: 660px;
+}
+
+.main_nine_section_fourth_row embed{
+    width: 124px;
+    margin-top: 12px;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.main_nine_section_fourth_row_right{
+    margin-left: 20px;
+}
+
+.main_nine_section_fourth_row_right p:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1A0DAB;
+    font-size: 16px;
+}
+
+.main_nine_section_fourth_row_right p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.main_nine_section_fourth_row_right p:nth-child(2) span{
+    color: #70757A;
+}
+
+.main_nine_section_fourth_row_right p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757A;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+
+
 /* main_main styling */
 
 .main_main{
@@ -1698,7 +1866,6 @@ header{
 }
 
 .main_left_sections{
-
     padding-right: 40px;
 }
 
@@ -1825,7 +1992,7 @@ header{
 
 .main_right_first_row_sixth_row p:nth-child(1) span:nth-child(1){
     color: #202124;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial,  Helvetica, sans-serif;
     font-weight: bold;
 }
 
