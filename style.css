@@ -2020,6 +2020,123 @@ header{
 
 
 
+.main_tenth_section_third_row{
+    display: flex;
+    margin-top: 30px;
+}
+
+.main_tenth_section_third_row_first_line{
+    display: flex;
+    margin-bottom: 0px;
+}
+
+.main_tenth_section_third_row_first_line p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #202124;
+    margin-bottom: 10px;
+}
+
+.main_tenth_section_third_row_first_line p span{
+    color: #5F6368;
+}
+
+.main_tenth_section_third_row_first_line img{
+    height: 18px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+.main_tenth_section_third_row_right img{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 33px;
+}
+
+.main_tenth_section_third_row_left p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #681DA8;
+}
+
+.main_tenth_section_third_row_left p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    color: #4D5156;
+}
+
+.main_tenth_section_third_row_left p:nth-child(3) span{
+    color: #5F6368;
+    font-weight: bold;
+}
+
+.main_tenth_section_third_row_left p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 0px;
+    color: #4D5156;
+}
+
+/* main_tenth_section_fourth_row styling */
+
+.main_tenth_section_fourth_row_first_line{
+    display: flex;
+    margin-bottom: 0px;
+}
+
+.main_tenth_section_fourth_row_first_line p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #202124;
+    margin-bottom: 10px;
+}
+
+.main_tenth_section_fourth_row_first_line p span{
+    color: #5F6368;
+}
+
+.main_tenth_section_fourth_row_first_line img{
+    height: 18px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+.main_tenth_section_fourth_row_left p:nth-child(2){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #681DA8;
+}
+
+.main_tenth_section_fourth_row_left p:nth-child(3){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    color: #4D5156;
+}
+
+.main_tenth_section_fourth_row_left p:nth-child(3) span{
+    color: #5F6368;
+    font-weight: bold;
+}
+
+.main_tenth_section_fourth_row_left p:nth-child(4){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top: 0px;
+    color: #4D5156;
+}
+
+
+
+
+
 
 
 
