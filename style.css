@@ -2254,11 +2254,6 @@ header{
     border-top: 1px solid rgb(230, 228, 228);
 }
 
-.main_eleventh_section_first_row_left{
-    border-bottom: 1px solid rgb(230, 228, 228);
-    width: 660px;
-}
-
 .main_eleventh_sections_button{
     display: flex;
     border-radius: 20px;
@@ -2283,7 +2278,88 @@ header{
 }
 
 
+/* main_twelveth_section styling */
 
+.main_twelveth_section{
+    border-top: 1px solid rgb(230, 228, 228);
+    width: 660px;
+    margin-left: 155px;
+
+}
+
+.main_twelveth_section_first_row_first_line{
+    display: flex;
+    margin-top: 7px;
+    width: 660px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(230, 228, 228);
+}
+
+.main_twelveth_section_first_row_first_line img:nth-child(1){
+    height: 50px;
+    border-radius: 7px;
+}
+
+.main_twelveth_section_first_row_first_line p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.main_twelveth_section_first_row_first_line_second_picture{
+    margin-left: 65%;
+}
+
+.main_twelveth_section_first_row_second_line{
+    display: flex;
+    margin-top: 7px;
+    width: 660px;
+    padding-bottom: 10px;
+    /* border-bottom: 1px solid rgb(230, 228, 228); */
+}
+
+.main_twelveth_section_first_row_second_line img:nth-child(1){
+    height: 50px;
+    border-radius: 7px;
+}
+
+.main_twelveth_section_first_row_second_line_firstp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+/* #main_twelveth_section_first_row_second_line_secondp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 200px;
+
+    margin-left: 10px;
+} */
+
+.main_twelveth_section_first_row_second_line_second_picture{
+    margin-left: 65%;
+}
+
+.main_twelveth_section_first_row_third_line{
+    display: flex;
+    margin-top: 0px;
+    align-items: center;
+}
+
+.main_twelveth_section_first_row_third_line_firstp{
+    border-bottom: 1px solid rgb(230, 228, 228);
+    margin-left: 0px;
+    width: 580px;
+}
+
+.main_twelveth_section_first_row_third_line_secondp{
+    /* padding-top: 20px; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left:20px ;
+    color: #70757A;
+}
 
 
 
