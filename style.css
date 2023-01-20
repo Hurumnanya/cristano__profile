@@ -2434,6 +2434,107 @@ header{
 }
 
 
+/* main_twelveth_section_third_row */
+
+.main_twelveth_section_third_row{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.main_twelveth_section_third_row_upper{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.big-g{
+    color: blue;
+    font-size: 50px;
+    margin-top: 0px;
+    font-family:arial,sans-serif;
+}
+
+.red p:nth-child(1){
+    color: red;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-family:arial,sans-serif;
+}
+
+.red p:nth-child(2){
+    margin-left: 4px;
+    color: #202124;
+    margin-top: 0px;
+}
+
+#red{
+    color: red;
+    font-size: 40px;
+    font-family:arial,sans-serif;
+}
+
+.blue{
+    color: blue;
+    font-size: 40px;
+    font-family:arial,sans-serif;
+}
+
+.green{
+    color: green;
+    font-size: 40px;
+    font-family:arial,sans-serif;
+}
+
+.orange p:nth-child(1){
+    color: orange;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-family:arial,sans-serif;
+}
+
+.orange p:nth-child(2){
+    color: blue;
+    margin-left: 4px;
+    margin-top: 0px;
+}
+
+#numfive{
+    color:#202124;
+}
+
+#numtwo{
+    color:#202124;
+}
+
+.greaterthan{
+    margin-top: 50px;
+}
+
+.greaterthan img{
+    margin-bottom: 25px;
+}
+
+.greaterthan p{
+    color: blue;
+    font-size: 12px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+
+#googleonward{
+    margin-left: 15px;
+    height: 10px;
+}
+
+
+/* main_twelveth_section_third_row_lower */
+
+.main_twelveth_section_third_row_lower{
+    display: flex;
+    margin-top: 0px;
+}
+
 
 /* main_main styling */
 
